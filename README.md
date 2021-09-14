@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahma-muhammad
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning ANGULAR
+- 👀 I’m interested in COMPUTER SCIENCE
+- 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
