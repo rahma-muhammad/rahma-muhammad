@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Rahma Muhammad
-A Junior machine learning engineer interested in **Data Science**, **Deep Learning** and **Generative AI**.
+# 👋 I’m Rahma Muhammad
+A Junior machine learning engineer interested in **Data Science**, **Machine Learning** and **Generative AI**.
 
 # 💻 Experiences and interests
 - Fine-tuned OpenAI's Whisper Speech-to-text model on Saudi dataset using LoRA technique.
